@@ -1,0 +1,17 @@
+{
+    "name": "Test_mobile",
+    "short_name": "Test_mobile",
+    "description": "Test mobile app",
+    "version": "0.1.0",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_title": "Test mobile app",
+        "default_popup": "index.html?popup=true",
+        "default_icon":  "images/logo.png"
+    },
+    "icons": {
+        "16": "images/logo.png"
+    },
+    "content_scripts": [],
+    "permissions": []
+}

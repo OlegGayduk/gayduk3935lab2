@@ -1,0 +1,21 @@
+{
+    "name": "Test mobile",
+    "short_name": "Test mobile",
+    "description": "Test mobile app",
+    "manifest_version": 2,
+    "start_url": "/?source=pwa",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#1E2033",
+    "theme_color": "#1E2033",
+    "icons": [
+        {
+            "src": "images/logo.png",
+            "type": "image/png",
+            "sizes": "28x28"
+        }
+    ],
+    "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+    "related_applications": [],
+    "capture_links": "none"
+}
