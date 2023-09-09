@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react'
-import ReactDOM from 'react-dom';
 import styles from '../css/index.module.css'
 import Navbar from '../elements/navbar.js';
 import Button from '../elements/button';
