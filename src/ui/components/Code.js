@@ -59,17 +59,17 @@ export default function Code(props) {
 
         renderCode(arr)
         
-        //arr = []
+        /*arr = []
 
-        //for (var i = 5; i < document.getElementsByClassName(styles.content)[0].childNodes.length; i++) {
-        //    if(document.getElementsByClassName(styles.content)[0].childNodes[i].innerHTML == code) {
-        //        arr.push(document.getElementsByClassName(styles.content)[0].childNodes[i])
-        //    }
-        //}
+        for (var i = 5; i < document.getElementsByClassName(styles.content)[0].childNodes.length; i++) {
+            if(document.getElementsByClassName(styles.content)[0].childNodes[i].innerHTML == code) {
+                arr.push(document.getElementsByClassName(styles.content)[0].childNodes[i])
+            }
+        }
 
-        //for(var i = 0; i < arr.length;i++) {
-        //    arr[i].remove()
-        //}
+        for(var i = 0; i < arr.length;i++) {
+            arr[i].remove()
+        }*/
 
     }
     
